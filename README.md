@@ -58,6 +58,8 @@ As soon as the data is ready into kafka SAMOA tasks reading from data is initiat
 ####Link for project presentation:
 https://prezi.com/aase4u10vlsz/machine-learning-based-framework-for-building-iot-applications/
 
+####Link for project presentation:
+https://www.youtube.com/watch?v=9sPvQf4iT98
 
 
 
