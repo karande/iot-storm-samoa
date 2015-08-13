@@ -39,7 +39,8 @@ Download dataset and copy data files into activity-dataset to simulate N users.
 ```   
 ####Step:2 
 Modify SAMOA performance evaluator class to print actual class and predicted class in following format
-<user, actual class, predicted class>
+
+(user, actual class, predicted class)
 
 ####Step:3 
 Create a PubNub account for messaging and add sub-key and pub-key into MessageHandler.java file
